@@ -7,5 +7,5 @@ Community health files cover the following topics:
 - [General code of conduct](CODE_OF_CONDUCT.md)
 - [Contribution guidelines](CONTRIBUTING.md)
 - [Reporting a security vulnerability](SECURITY.md)
-- [Issues and pull requests templates](TEMPLATES.md)
+- [License](LICENSE)
 - [Getting help](SUPPORT.md)
